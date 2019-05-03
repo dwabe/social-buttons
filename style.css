@@ -1,0 +1,85 @@
+h2 {
+    color: #505050;
+    font-size: 40px;
+    font-family: Verdana;
+    font-weight: 200;
+    text-align: center;
+    }
+
+body {
+    background: #DEDEDE;
+}
+
+button {
+    background: #DEDEDE;
+    border: 0;
+}
+    
+.social {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+}
+
+.icon-btn {
+    width: 75px;
+    height: 75px;
+    background: #FFFFFF;
+    border: none;
+    border-radius: 50%;
+    line-height: 75px;
+    margin: 0 auto;
+    cursor: pointer;
+    font-size: 40px;
+    }
+    
+.icon-btn:hover {
+    transform: scale(1.10);
+    color: white;
+}
+
+.twitter { 
+    color: #4099FF;
+}
+
+.twitter:hover { 
+    background: #4099FF;
+    transition: ease-in-out .3s;
+}
+    
+.facebook {
+    color: #3B5998;
+}
+
+.facebook:hover {
+    background: #3B5998;
+    transition: ease-in-out .3s;
+}
+
+.google-plus {
+    color: #DB5A3C;
+}
+
+.google-plus:hover {
+    background: #DB5A3C;
+    transition: ease-in-out .3s;
+}
+
+.instagram {
+    color: #5C3D2E;
+}
+
+.instagram:hover {
+    background: #5C3D2E;
+    transition: ease-in-out .3s;
+}
+
+.github {
+    color: #4183C4;
+}
+
+.github:hover {
+    background: #4183C4;
+    transition: ease-in-out .3s;
+}
